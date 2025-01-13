@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/daily-reset/static/css/main.5bf9f58c.css",
-    "main.js": "/daily-reset/static/js/main.ac64435b.js",
+    "main.js": "/daily-reset/static/js/main.f1dc3131.js",
     "index.html": "/daily-reset/index.html",
     "main.5bf9f58c.css.map": "/daily-reset/static/css/main.5bf9f58c.css.map",
-    "main.ac64435b.js.map": "/daily-reset/static/js/main.ac64435b.js.map"
+    "main.f1dc3131.js.map": "/daily-reset/static/js/main.f1dc3131.js.map"
   },
   "entrypoints": [
     "static/css/main.5bf9f58c.css",
-    "static/js/main.ac64435b.js"
+    "static/js/main.f1dc3131.js"
   ]
 }
